@@ -32,7 +32,7 @@ npm run dev
 
 - Vercel
 
-Clique [aqui]("https://react-nu-brown.vercel.app/") para acessar o site!
+Clique [aqui]("https://lista-tarefas-react-tawny.vercel.app/") para acessar o site!
 
 ## Contato
 
